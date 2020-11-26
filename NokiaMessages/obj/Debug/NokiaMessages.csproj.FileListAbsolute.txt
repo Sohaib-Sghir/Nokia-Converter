@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\bin\Debug\NokiaMessages.exe.config
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\bin\Debug\NokiaMessages.exe
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\bin\Debug\NokiaMessages.pdb
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\obj\Debug\NokiaMessages.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\obj\Debug\NokiaMessages.Form1.resources
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\obj\Debug\NokiaMessages.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\obj\Debug\NokiaMessages.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\obj\Debug\NokiaMessages.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\obj\Debug\NokiaMessages.exe
+C:\Users\HP\Desktop\C#\Nokia\NokiaMessages\NokiaMessages\obj\Debug\NokiaMessages.pdb
