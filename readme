@@ -1,0 +1,4 @@
+Application desktop qui traduit les messages clairs en donnant des messages cryptés et vice versa.
+ex : 
+msg clair : hello world .
+ms crypté : 44-33-555-555-666-0-9-666-777-555-3 .
